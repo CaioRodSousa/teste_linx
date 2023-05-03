@@ -268,3 +268,26 @@ for obj in s3_resource.Bucket(bucket_name).objects.filter(Prefix=path_raw):
 end = DT.datetime.strftime(DT.datetime.now(tz_BR),'%Y-%m-%d %H:%M:%S')
 print(f'processo finalizado!: {end}')     
 ```
+# AWS_S3
+
+![image](https://user-images.githubusercontent.com/73916591/235823734-b39d4edd-af95-40b0-98ef-875550029b36.png)
+
+![image](https://user-images.githubusercontent.com/73916591/235824012-955a34c4-3c65-4fc9-a3a7-159d6ea38cda.png)
+
+![image](https://user-images.githubusercontent.com/73916591/235824089-7db70573-35e1-459d-bce9-53044f780569.png)
+
+![image](https://user-images.githubusercontent.com/73916591/235824208-9a91f932-6163-4c60-b3a5-05d883cfba89.png)
+
+![image](https://user-images.githubusercontent.com/73916591/235824648-0e8a6b6d-49f7-425e-888e-cc85f8d6684c.png)
+
+![image](https://user-images.githubusercontent.com/73916591/235824757-ebc8a9a8-b561-4913-af92-a1151e6ee79f.png)
+
+![image](https://user-images.githubusercontent.com/73916591/235824788-94fdba66-c841-4ae9-adc0-1e382e19c7f2.png)
+
+![image](https://user-images.githubusercontent.com/73916591/235824850-3f996a5d-5a17-4e94-aef0-e5b530ba363b.png)
+
+![image](https://user-images.githubusercontent.com/73916591/235824904-6143795d-b274-4978-97a1-a90c86ca4bfc.png)
+
+
+
+
